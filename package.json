@@ -1,0 +1,26 @@
+{
+  "name": "iss-orbital-frontier",
+  "version": "1.0.0",
+  "description": "ISS Orbital Frontier - 3D ISS simulation and celestial assets for web games and AI Studio",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [
+    "iss",
+    "space",
+    "threejs",
+    "webgl",
+    "gltf",
+    "glb",
+    "solar-system",
+    "orbital-simulation"
+  ],
+  "author": "shrey123505",
+  "license": "CC-BY-4.0",
+  "devDependencies": {
+    "vite": "^6.0.0"
+  }
+}
